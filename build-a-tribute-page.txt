@@ -1,0 +1,233 @@
+** start of undefined **
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Virat Kohli</h1>
+      <p>The Run Machine of India</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://static.toiimg.com/thumb/msid-88926281,imgsize-43620,width-400,resizemode-4/88926281.jpg"
+          alt="Virat Kohli in Test Match"
+        />
+        <figcaption id="img-caption">
+          Virat Kohli in Test Match
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Here's a time line of Virat Kohli:</h3>
+        <ul>
+          <li><strong>Saturday Nov 5, 1988</strong> - Virat Kohli was born on 5 November 1988 in Delhi into a Punjabi Hindu family. His father, Prem Kohli, worked as a criminal lawyer and his mother, Saroj Kohli, is a housewife. He has an older brother, Vikas, and an older sister, Bhavna. According to his family, when he was three-years old, Kohli would pick up a cricket bat, start swinging it and ask his father to bowl at him.</li>
+          <li>
+            <strong>1998</strong> - In 1998, the West Delhi Cricket Academy was created and a nine-year-old Kohli was part of its first intake. Kohli's father took him to the academy after their neighbours suggested that "Virat shouldn't waste his time in gully cricket and instead join a professional club". Kohli trained at the academy under Rajkumar Sharma and also played matches at the Sumeet Dogra Academy at Vasundhara Enclave at the same time.
+          </li>
+          <li>
+            <strong>Oct, 2002</strong> - Kohli first played for Delhi Under-15 team in October 2002 in the 2002–03 Polly Umrigar Trophy. He was the leading run-scorer for his team in that tournament with 172 runs at an average of 34.40.
+          </li>
+          <li>
+            <strong>2003</strong> - Virat became the captain of the team for the 2003–04 Polly Umrigar Trophy and scored 390 runs in 5 innings at an average of 78 including two centuries and two fifties.
+          </li>
+          <li>
+            <strong>2004</strong> - n late 2004, he was selected in the Delhi Under-17 team for the 2003–04 Vijay Merchant Trophy. He scored 470 runs in four matches at an average of 117.50 with two hundreds and top-score of 251*
+          </li>
+          <li>
+            <strong>1941</strong> - Tries to enroll in the military after the
+            Pearl Harbor attack, but is rejected. Instead, the military asked
+            his lab to work on waterproof glue, DDT to control malaria,
+            disinfectants, and other applied science.
+          </li>
+          <li>
+            <strong>2005</strong> - Delhi Under-17s won the 2004–05 Vijay Merchant Trophy in which Kohli finished as the highest run-scorer with 757 runs from 7 matches at an average of 84.11 with two centuries.
+          </li>
+          <li>
+            <strong>1944</strong> - Rejects a 100% salary increase from Dupont,
+            leaves behind his pregnant wife, and flies to Mexico to head a new
+            plant pathology program. Over the next 16 years, his team breeds
+            6,000 different strains of disease resistent wheat - including
+            different varieties for each major climate on Earth.
+          </li>
+          <li>
+            <strong>Jul, 2006</strong> - In July 2006, Kohli was selected in the India Under-19 squad on its tour of England. He averaged 105 in the three-match ODI series against England Under-19s and 49 in the three-match Test series. India Under-19 went on to win both the series. At the conclusion of the tour, the India Under-19 coach Lalchand Rajput was impressed with Kohli and said, "Kohli showed strong technical skills against both pace and spin".
+          </li>
+          <li>
+            <strong>Monday Dec 18, 2006</strong> - Kohli's father died on 18 December 2006 due to a stroke after being bed-ridden for a month. Regarding his early life, Kohli has said in an interview, According to Kohli, his father supported his cricket training during his childhood, "My father was my biggest support. He was the one who drove me to practice every day. I miss his presence sometimes."
+          </li>
+          <li>
+            <strong>Tuesday Dec 19, 2006</strong> - Virat came into the spotlight in December when he decided to play for his team against Karnataka on the day after his father's death and went on to score 90. He went directly to the funeral after he was dismissed.
+          </li>
+          <li><strong>Feb, 2008</strong> - In February–March 2008, Kohli captained the victorious Indian team at the 2008 ICC Under-19 Cricket World Cup held in Malaysia. Batting at number 3, he scored 235 runs in 6 matches at an average of 47 and finished as the tournament's third-highest run-getter and one of the three batsmen to score a hundred in the tournament.</li>
+          <li>
+            <strong>2008</strong> - Following the Under-19 World Cup, Kohli was bought by the Indian Premier League franchise Royal Challengers Bangalore for $30,000 on a youth contract.
+          </li>
+          <li>
+            <strong>Aug, 2008</strong> - In August 2008, Kohli was included in the Indian ODI squad for tour of Sri Lanka and the Champions Trophy in Pakistan. Prior to the Sri Lankan tour, Kohli had played only eight List A matches, and his selection was called a "surprise call-up". During the Sri Lankan tour, as both first-choice openers Sachin Tendulkar and Virender Sehwag were injured, Kohli batted as a makeshift opener throughout the series. He made his international debut, at the age of 19, in the first ODI of the tour and was dismissed for 12. He made his first ODI half century, a score of 54, in the fourth match which helped India win the series. India won the series 3–2 which was India's first ODI series win against Sri Lanka in Sri Lanka.
+          </li>
+          <li>
+            <strong>Aug, 2009</strong> - Kohli was selected in the four-team Emerging Players Tournament in July–August 2009 held in Australia. He opened the innings for India Emerging Players in that tournament and finished as the leading run-getter with 398 runs from seven matches at an average of 66.33. He scored 104 off 102 balls in the final against South Africa Emerging Players at Brisbane to help his team win the match by 17 runs and clinch the title</li>
+          
+          <li>
+            <strong>Saturday Apr 2, 2011</strong> - Kohli played in every match of India's successful World Cup campaign. In the next four group matches he had low scores of 8, 34, 12 and 1 against England, Ireland, Netherlands and South Africa respectively. Having returned to form with 59 against the West Indies, he scored only 24 and 9 in the quarter-final against Australia and semi-final against Pakistan respectively. In the final against Sri Lanka at Mumbai, he scored 35, sharing an 83-run partnership with Gambhir for the third wicket after India had lost both openers within the seventh over chasing 275. This partnership is regarded as "one of the turning points in the match", as India went on to win the match by six wickets and lift the World Cup for the first time since 1983</li>
+          <li><strong>Mar, 2012</strong> - Kohli was appointed the vice-captain for the 2012 Asia Cup in Bangladesh on the back of his fine performance in Australia, Kohli was in fine form during the tournament, finishing as the leading run-scorer with 357 runs at an average of 119, His knock was the highest individual score in Asia Cup history, the joint-second highest score in an ODI run-chase and the highest individual score against Pakistan in ODIs surpassing previous record of 156 by Brian Lara. Kohli was awarded the man of the match in both matches that India won, but India could not progress to the final of the tournament.</li>
+          <li>
+            <strong>2013</strong> - In March 2013, Kohli started a charity foundation called Virat Kohli Foundation (VKF). The organisation aims at helping underprivileged kids and conducts events to raise funds for the charity. According to Kohli, the foundation works with select NGOs to "create awareness, seek support and raise funds for the various causes they endorse and the philanthropic work they engage in".</li>
+          <li>
+            <strong>Jun, 2013</strong> - In June 2013, Kohli featured in the ICC Champions Trophy in England which India won.</li>
+          
+          <li>
+            <strong>2016</strong> - At the 2016 IPL, the Royal Challengers finished runners-up and Kohli broke the record for most runs in an IPL season (of 733 runs) by scoring 973 runs in 16 matches at an average of 81.08, winning the Orange Cap as well as Most-valuable Player Award of Vivo IPL 2016. He scored four centuries in the tournament, having never scored one in the Twenty20 format before the start of the season, and also became the first player to reach the 4000-run milestone in the IPL.</li>
+          
+          <li>
+            <strong>Oct, 2016</strong> - Indian Player Virat Kohli became the first batsman in the history of Test cricket to score four double hundreds in four consecutive Test series. By the achievement of his 204 against Bangladesh at Hyderabad, the 28-year-old right-hander entered his name into the history books. </li>
+          
+          <li>
+            <strong>Thursday Mar 30, 2017</strong> - Indian cricket captain Virat Kohli was awarded the Padma Shri award by President Pranab Mukherjee at a ceremony at the Rashtrapati Bhavan, which is the fourth-highest civilian award in the Republic of India.</li>
+          
+          <li>
+            <strong>2017</strong> - In 2017, Kohli was ranked 7th in the list released by Forbes as the Most Valuable Brand among athletes, ahead of sportspeople like Lionel Messi, Rory McIlroy and Stephen Curry, with an estimated brand value of $14.5 million, Making him the only Indian and the only cricketer to feature in that list.</li>
+          
+          <li>
+            <strong>Monday Dec 11, 2017</strong> - Kohli started dating Bollywood actress Anushka Sharma in 2013; the couple soon earned the celebrity couple nickname "Virushka". Their relationship attracted substantial media attention, with persistent rumours and speculations in the media, as neither of the two publicly talked about it. The couple married on 11 December 2017 in a private ceremony in Florence, Italy.</li>
+          
+          <li>
+            <strong>Tuesday Sep 25, 2018</strong> - Men’s cricket team captain Virat Kohli was provided with the Rajiv Gandhi Khel Ratna Award by President Ram Nath Kovind at the Rashtrapati Bhavan. The annual National Sports Awards were bestowed on the best athletes that the country has seen in the past one year, which is the highest sporting honour of the Republic of India.</li>
+          
+          <li>
+            <strong>Apr, 2019</strong> - In April 2019, he was named the captain of India's squad for the 2019 Cricket World Cup. On 16 June 2019, in India's match against Pakistan, Kohli became the fastest batsman, in terms of innings, to score 11,000 runs in ODI cricket.Eleven days later, in the match against the West Indies, Kohli became the fastest cricketer, in terms of innings, to score 20,000 runs in international cricket, doing so in his 417th innings.Kohli scored five consecutive fifty plus score in the tournament. India lost the semi-final against New Zealand, in which Kohli was out for just a run.</li>
+        </ul>
+        <blockquote
+          cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+        >
+          <p>
+            “To become a good player, you need talent. To become a great player, you need an attitude like Kohli's.”
+          </p>
+          <cite>-- Sunil Gavaskar (Indian Cricketer)</cite>
+        </blockquote>
+        <h3>
+          If you have time, you should read more about this incredible human
+          being on his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Virat_Kohli"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+  /* Setting a base font size of 10px give us easier rem calculations
+       Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+     */
+  font-size: 10px;
+}
+
+body {
+  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  font-size: 3.25rem;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1.4rem;
+  }
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+** end of undefined **
+
